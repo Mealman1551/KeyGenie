@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-To run KeyGenie, you need to have Python installed. You can download Python from [![Python](https://img.shields.io/badge/Python-3.x-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+To run KeyGenie, you need to have Python installed. You can download Python from [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 ## Installation
 You can download the newest release here: 
