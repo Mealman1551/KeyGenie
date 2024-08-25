@@ -10,11 +10,13 @@
 
 ## Getting Started
 
-## Prerequisites
-
 To run KeyGenie, you need to have Python installed. You can download Python from [![Python](https://img.shields.io/badge/Python-3.x-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 
 ## Installation
+You can download the newest release here: 
+
 
 ### Donations
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal&logoColor=white)](https://paypal.me/NathanduBuy)
+##### All money goes to the development of KeyGenie
+###### © 2024 Mealman1551
