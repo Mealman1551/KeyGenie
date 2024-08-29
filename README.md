@@ -4,8 +4,7 @@
 
 ## Status
 ![Development Active](https://img.shields.io/badge/development-active-brightgreen?style=for-the-badge)
-
-
+<> ![Development Inactive](https://img.shields.io/badge/development-inactive-lightgrey?style=for-the-badge)
 
 ## Features
 - **Open Source**: Fully customizable and adaptable to your specific requirements.
