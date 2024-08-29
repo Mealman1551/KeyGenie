@@ -2,14 +2,17 @@
 
 **KeyGenie** is a simple, open-source serial key generator designed for small businesses. It provides an easy way to generate unique serial keys for software licensing. The tool is lightweight, easy to understand, and fully customizable to fit your specific needs.
 
-## Features
+## Status
+![Development Active](https://img.shields.io/badge/development-active-brightgreen?style=for-the-badge)
 
+
+
+## Features
 - **Open Source**: Fully customizable and adaptable to your specific requirements.
 - **Lightweight**: Minimal codebase, easy to integrate and extend.
 - **Free**: Available for everyone to use. Donations are appreciated but not required.
 
 ## Getting Started
-
 To run KeyGenie, you need to have _Python 3.0_ or above installed. You can download Python here: [![Python](https://img.shields.io/badge/Download-Python%203.0+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 
 
