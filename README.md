@@ -27,4 +27,4 @@ You can download the newest release of KeyGenie here: [![Download KeyGenie](http
 
 ![Made with ❤️ in Python](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Python-ffc42d?style=for-the-badge&logo=python)
 
-###### © 2024 Mealman1551
+###### © 2025 Mealman1551
