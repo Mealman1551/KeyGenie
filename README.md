@@ -6,7 +6,9 @@
 ![Development Active](https://img.shields.io/badge/development-active-brightgreen?style=plastic)
 <!-- ![Development Inactive](https://img.shields.io/badge/development-inactive-red?style=plastic) -->
 ![License](https://img.shields.io/badge/Licensed%20under:-LNL%20v1.1-blue?style=plastic)
-**Latest version:** _1.1_
+
+
+**KeyGenie latest version:** _1.1_
 
 ## Features
 - **Open Source**: Fully customizable and adaptable to your specific requirements.
