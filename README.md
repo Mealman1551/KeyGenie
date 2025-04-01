@@ -5,7 +5,7 @@
 ## Status
 ![Development Active](https://img.shields.io/badge/development-active-brightgreen?style=plastic)
 <!-- ![Development Inactive](https://img.shields.io/badge/development-inactive-red?style=plastic) -->
-![License](https://img.shields.io/badge/Licensed%20under:-LNL%20v1.1-blue?style=plastic)
+[![License](https://img.shields.io/badge/Licensed%20under:-LNL%20v1.1-blue?style=plastic)](#)
 
 
 **KeyGenie latest version:** _1.1_
