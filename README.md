@@ -20,7 +20,7 @@ To run KeyGenie, you need to have _Python 3.0_ or above installed. You can downl
 
 
 ## Installation
-You can download the newest release of KeyGenie here: [![Download KeyGenie](https://img.shields.io/badge/Download-KeyGenie%201.0.0-brightgreen.svg?logo=python&logoColor=white)](https://github.com/Mealman1551/KeyGenie/releases/download/KeyGenie_1.1/KeyGenie1.1.py)
+You can download the newest release of KeyGenie here: [![Download KeyGenie](https://img.shields.io/badge/Download-KeyGenie%201.1.0-brightgreen.svg?logo=python&logoColor=white)](https://github.com/Mealman1551/KeyGenie/releases/download/KeyGenie_1.1/KeyGenie1.1.py)
 
 
 
